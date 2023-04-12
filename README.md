@@ -4,4 +4,10 @@ Web interface to play with building Voronoi Diagrams. It uses WebGL for renderin
 
 ## Example
 
-You can access the live playground here.
+![Voronoi Diagram example](example.png)
+
+You can access the live playground [here](https://fmosbacher.github.io/voronoi).
+
+## Quick start
+
+The project has only an HTML and a JS file. It requires no dependency.
